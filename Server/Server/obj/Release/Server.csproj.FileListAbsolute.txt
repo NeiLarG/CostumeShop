@@ -1,0 +1,12 @@
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\bin\Release\Server.exe.config
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\bin\Release\Server.exe
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\bin\Release\Server.pdb
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\obj\Release\Server.exe
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\obj\Release\Server.pdb
+C:\Users\DsQua\Desktop\Server\Server\bin\Release\Server.exe.config
+C:\Users\DsQua\Desktop\Server\Server\bin\Release\Server.exe
+C:\Users\DsQua\Desktop\Server\Server\bin\Release\Server.pdb
+C:\Users\DsQua\Desktop\Server\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\DsQua\Desktop\Server\Server\obj\Release\Server.exe
+C:\Users\DsQua\Desktop\Server\Server\obj\Release\Server.pdb

@@ -1,0 +1,12 @@
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\bin\Debug\Server.exe.config
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\bin\Debug\Server.exe
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\bin\Debug\Server.pdb
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\obj\Debug\Server.exe
+D:\Учёба\4 курс\7 семестр\курсач\Server\Server\obj\Debug\Server.pdb
+C:\Users\Alex\Desktop\СostumeShop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Alex\Desktop\СostumeShop\Server\Server\bin\Debug\Server.exe
+C:\Users\Alex\Desktop\СostumeShop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Alex\Desktop\СostumeShop\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\СostumeShop\Server\Server\obj\Debug\Server.exe
+C:\Users\Alex\Desktop\СostumeShop\Server\Server\obj\Debug\Server.pdb

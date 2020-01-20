@@ -1,0 +1,26 @@
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\bin\Release\Client.exe.config
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\bin\Release\Client.exe
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\bin\Release\Client.pdb
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.csprojAssemblyReference.cache
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.Form1.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.Info.MatModel.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.Login.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.Properties.Resources.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.Info.Zadanie.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.ShadowPrice.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.exe
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Release\Client.pdb
+C:\Users\DsQua\Desktop\Client\Client\bin\Release\Client.exe.config
+C:\Users\DsQua\Desktop\Client\Client\bin\Release\Client.exe
+C:\Users\DsQua\Desktop\Client\Client\bin\Release\Client.pdb
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.Form1.resources
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.Info.MatModel.resources
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.Login.resources
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.Info.Zadanie.resources
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.ShadowPrice.resources
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.exe
+C:\Users\DsQua\Desktop\Client\Client\obj\Release\Client.pdb

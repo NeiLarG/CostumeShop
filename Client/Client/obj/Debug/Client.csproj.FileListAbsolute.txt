@@ -1,0 +1,25 @@
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\bin\Debug\Client.exe.config
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\bin\Debug\Client.exe
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\bin\Debug\Client.pdb
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.exe
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.pdb
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.Info.MatModel.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.Info.Zadanie.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.Form1.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.Login.resources
+D:\Учёба\4 курс\7 семестр\курсач\Client\Client\obj\Debug\Client.ShadowPrice.resources
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\bin\Debug\Client.exe
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.Info.MatModel.resources
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.Login.resources
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.Info.Zadanie.resources
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.exe
+C:\Users\Alex\Desktop\СostumeShop\Client\Client\obj\Debug\Client.pdb
